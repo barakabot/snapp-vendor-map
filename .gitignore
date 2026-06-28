@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env.local
+*.db
+db/
+dev.log
+server.log
+.zscripts/
+upload/
+worklog.md
+skills/
+tool-results/
+bun.lock
